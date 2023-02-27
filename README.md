@@ -1,3 +1,7 @@
+<p align="center">
+    <a href="https://github.com/SudoAzek/SEON-6461/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
+</p>
 # SOEN-6461
                                                           CONCORDIA UNIVERSITY
                                           DEPARTMENT OF COMPUTER SCIENCE AND SOFTWARE ENGINEERING
@@ -12,14 +16,18 @@ A machine called a Ticket Vending Machine (TVM), also referred to as a ticket ma
 
 The objective of the project is to develop a collection of interconnected components for the software aspect of a TVM that is maintainable, secure, environmentally sustainable, and user-friendly. Throughout the document, the term "iGo" is used to refer to both the project and the product, unless otherwise specified.
 
-Team consists of:
-
-**A K M Saifun Nabi, Muni Gowtham Mylangam, Preet Angad Singh Nanda, Herve Ngomseu Fotsing, Azamat Ochilov**
+##Team consists of:
+**[A K M Saifun Nabi](#a-k-m-saifun-nabi)**<br>
+**[Muni Gowtham Mylangam](#muni-gowtham-mylangam)**<br>
+**[Preet Angad Singh Nanda](#preet-angad-singh-nanda)**<br>
+**[Herve Ngomseu Fotsing](#herve-ngomseu-fotsing)**<br>
+**[Azamat Ochilov](#azamat-ochilov)**<br>
+**[Kevin Ashishkumar Pandya](#kevin-ashishkumar-pandya)**<br>
 
 # Roles and Responsibilities:
 Deliverable 1
 
-**A K M Saifun Nabi**
+## A K M Saifun Nabi
 
 1. Worked on :
 - Project Management
@@ -39,7 +47,7 @@ Deliverable 1
 
 4. Reviewed and suggested improvements in the LateX report.
 
-**Muni Gowtham Mylangam**
+## Muni Gowtham Mylangam
 
 
 1. Worked on:
@@ -48,7 +56,7 @@ Deliverable 1
   - Interview question preaparation
   - Conduct interview with a representative iGo user
   
-**Preet Angad Singh Nanda**
+## Preet Angad Singh Nanda
  
  
   1. Worked on :
@@ -59,7 +67,7 @@ Deliverable 1
  2. Worked in collboration with other team members for conducting interviews.
 
 
-**Herve Ngomseu Fotsing**
+## Herve Ngomseu Fotsing
 
 
 1. Worked on:
@@ -79,7 +87,7 @@ Deliverable 1
 3. Worked in collboration with other team members for conducting interviews.
 
 
-**Azamat Ochilov**
+## Azamat Ochilov
 
 
 1. Worked on:
@@ -96,6 +104,26 @@ Deliverable 1
    - Sequence Diagram
    - CRC card model
    - Code Review
+   - Prepare the presentation slide for final demonstration
+
+3. Worked in collaboration with other team members for conducting interviews.
+
+
+## Kevin Ashishkumar Pandya
+
+
+1. Worked on:
+  - Mind Map
+  - LaTeX Report
+  - UML Acitivty
+  
+  
+2. Contributed in:
+   - Interview question preaparation
+   - Conduct interview with a representative iGo user
+   - Sequence Diagram
+   - CRC card model
+   - Coding
    - Prepare the presentation slide for final demonstration
 
 3. Worked in collaboration with other team members for conducting interviews.
