@@ -1,7 +1,4 @@
-<p align="center">
-    <a href="https://github.com/SudoAzek/SEON-6461/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
-</p>
+
 # SOEN-6461
                                                           CONCORDIA UNIVERSITY
                                           DEPARTMENT OF COMPUTER SCIENCE AND SOFTWARE ENGINEERING
@@ -16,7 +13,12 @@ A machine called a Ticket Vending Machine (TVM), also referred to as a ticket ma
 
 The objective of the project is to develop a collection of interconnected components for the software aspect of a TVM that is maintainable, secure, environmentally sustainable, and user-friendly. Throughout the document, the term "iGo" is used to refer to both the project and the product, unless otherwise specified.
 
-##Team consists of:
+<p align="center">
+    <a href="https://github.com/SudoAzek/SEON-6461/graphs/contributors" alt="Contributors"></a>
+</p>
+![GitHub Contributors Image](https://contrib.rocks/image?repo=SudoAzek/6461)
+
+## Team consists of:
 **[A K M Saifun Nabi](#a-k-m-saifun-nabi)**<br>
 **[Muni Gowtham Mylangam](#muni-gowtham-mylangam)**<br>
 **[Preet Angad Singh Nanda](#preet-angad-singh-nanda)**<br>
