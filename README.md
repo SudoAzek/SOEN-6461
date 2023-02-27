@@ -24,7 +24,7 @@ The objective of the project is to develop a collection of interconnected compon
 **[Azamat Ochilov](#azamat-ochilov)**<br>
 **[Kevin Ashishkumar Pandya](#kevin-ashishkumar-pandya)**<br>
 
-# Deliverable 1Roles and Responsibilities:
+# Deliverable 1 Roles and Responsibilities:
 
 ## A K M Saifun Nabi
 
