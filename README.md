@@ -13,10 +13,8 @@ A machine called a Ticket Vending Machine (TVM), also referred to as a ticket ma
 
 The objective of the project is to develop a collection of interconnected components for the software aspect of a TVM that is maintainable, secure, environmentally sustainable, and user-friendly. Throughout the document, the term "iGo" is used to refer to both the project and the product, unless otherwise specified.
 
-<p align="center">
-    <a href="https://github.com/SudoAzek/SEON-6461/graphs/contributors" alt="Contributors"></a>
-</p>
-![GitHub Contributors Image](https://contrib.rocks/image?repo=SudoAzek/6461)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+<br/>![contributors](https://img.shields.io/badge/Contributors-6-green)
 
 ## Team consists of:
 **[A K M Saifun Nabi](#a-k-m-saifun-nabi)**<br>
@@ -26,24 +24,23 @@ The objective of the project is to develop a collection of interconnected compon
 **[Azamat Ochilov](#azamat-ochilov)**<br>
 **[Kevin Ashishkumar Pandya](#kevin-ashishkumar-pandya)**<br>
 
-# Roles and Responsibilities:
-Deliverable 1
+# Deliverable 1Roles and Responsibilities:
 
 ## A K M Saifun Nabi
 
 1. Worked on :
-- Project Management
-- Business analysis of the TVM selected and prepare the description
+  - Project Management
+  - Business analysis of the TVM selected and prepare the description
 
-2. Contributed in :
-- UML Acitivty diagram
-- Interview Questions
-- Conduct interview with a representative iGo user
-- Sequence Diagram
-- Review the UML diagrams
-- CRC card model
-- Static and Dynamic testing of the iGo implementation
-- Present slide for the final demonstration
+2. Contributed in:
+   - UML Acitivty diagram
+   - Interview Questions
+   - Conduct interview with a representative iGo user
+   - Sequence Diagram
+   - Review the UML diagrams
+   - CRC card model
+   - Static and Dynamic testing of the iGo implementation
+   - Present slide for the final demonstration
 
 3. Worked in collboration with other team members for conducting interviews.
 
@@ -58,15 +55,37 @@ Deliverable 1
   - Interview question preaparation
   - Conduct interview with a representative iGo user
   
+2. Contributed in :
+   - UML Acitivty diagram
+   - Interview Questions
+   - Conduct interview with a representative iGo user
+   - Sequence Diagram
+   - Review the UML diagrams
+   - CRC card model
+   - Static and Dynamic testing of the iGo implementation
+   - Present slide for the final demonstration
+
+3. Worked in collboration with other team members for conducting interviews.
+  
 ## Preet Angad Singh Nanda
  
  
-  1. Worked on :
-  - Latex Report 
-  - Problem domain model
-  - UML Acitivty diagram
+ 1. Worked on :
+   - Latex Report 
+   - Problem domain model
+   - UML Acitivty diagram
   
- 2. Worked in collboration with other team members for conducting interviews.
+ 2. Contributed in :
+    - UML Acitivty diagram
+    - Interview Questions
+    - Conduct interview with a representative iGo user
+    - Sequence Diagram
+    - Review the UML diagrams
+    - CRC card model
+    - Static and Dynamic testing of the iGo implementation
+    - Present slide for the final demonstration
+
+3. Worked in collboration with other team members for conducting interviews.
 
 
 ## Herve Ngomseu Fotsing
@@ -80,11 +99,11 @@ Deliverable 1
   - Sequence Diagram
 
 2. Contributed in :
-  - Review the Latex Report
-  - Conduct interview with a representative iGo user
-  - CRC card model
-  - Coding the iGo implementation
-  - Prepare the presentation slide for final demonstration
+   - Review the Latex Report
+   - Conduct interview with a representative iGo user
+   - CRC card model
+   - Coding the iGo implementation
+   - Prepare the presentation slide for final demonstration
   
 3. Worked in collboration with other team members for conducting interviews.
 
